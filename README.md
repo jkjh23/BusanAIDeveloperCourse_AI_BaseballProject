@@ -1,1 +1,1 @@
-# BusanAIDeveloperCourse_AI_DataAnalysisProject
+# BusanAIDeveloperCourse_AI_BaseballProject
